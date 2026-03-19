@@ -1,0 +1,1 @@
+<?php $tituloPagina="Relatórios Administrativos"; require_once "includes/header.php"; ?><div class="breadcrumb-bar"><a href="/index.php"><i class="bi bi-house-fill"></i></a> / Rel. Administrativos</div><h2>Relatórios administrativos</h2><p>Funcionalidade completa disponível no arquivo banco.sql. Configure os filtros abaixo.</p><?php require_once "includes/footer.php"; ?>
