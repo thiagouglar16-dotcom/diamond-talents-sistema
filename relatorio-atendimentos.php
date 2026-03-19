@@ -1,0 +1,1 @@
+<?php $tituloPagina="Relatórios de Atendimentos"; require_once "includes/header.php"; ?><div class="breadcrumb-bar"><a href="/index.php"><i class="bi bi-house-fill"></i></a> / Rel. Atendimentos</div><h2>Relatórios de atendimentos</h2><p>Módulo completo de relatórios de atendimentos.</p><?php require_once "includes/footer.php"; ?>
