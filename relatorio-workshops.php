@@ -1,0 +1,1 @@
+<?php $tituloPagina="Relatórios de Workshops"; require_once "includes/header.php"; ?><div class="breadcrumb-bar"><a href="/index.php"><i class="bi bi-house-fill"></i></a> / <span>Relatórios de workshops</span></div><h2>Relatórios de workshops</h2><p class="text-muted">Em desenvolvimento...</p><?php require_once "includes/footer.php"; ?>
